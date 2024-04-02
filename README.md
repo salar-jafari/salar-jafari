@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @salar-jafari (Reza)
+- 👋 Hi, I’m @salar-jafari 
 - 👀 I’m interested in mobile application development
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on Flutter and SwiftUI projects
-- 📫 How to reach me https://victoriadigitalagency.com/harry_jafari
+- 📫 How to reach me
 - ⚡ Fun fact: ...
 
 <!---
